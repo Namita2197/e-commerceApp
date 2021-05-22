@@ -47,7 +47,7 @@ Commit message: "Update pom.xml"
 [INFO] 
 [INFO] Results:
 [INFO] 
-[INFO] Tests run: 15, Failures: 0, Errors: 0, Skipped: 0
+[INFO] Tests run: 11, Failures: 0, Errors: 0, Skipped: 0
 [INFO] 
 
 Please refer to /var/jenkins_home/workspace/E-Commerce/target/surefire-reports for the individual test results.
@@ -2377,7 +2377,7 @@ Downloaded from central: https://repo.maven.apache.org/maven2/net/java/dev/jna/j
 [INFO] 
 [INFO] Results:
 [INFO] 
-[INFO] Tests run: 15, Failures: 0, Errors: 0, Skipped: 0
+[INFO] Tests run: 11, Failures: 0, Errors: 0, Skipped: 0
 [INFO] 
 [INFO] 
 [INFO] Replacing main artifact with repackaged archive
